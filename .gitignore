@@ -1,0 +1,17 @@
+# System
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# OS-generated
+ehthumbs.db
+Icon?
+desktop.ini
+
+# Node/npm if added later
+node_modules/
